@@ -1,0 +1,6 @@
+{
+  "animais": ["Gato", "Cão", "Passáro", "Porco", "Galinha", "Zebra", "Leão"],
+  "frutas": ["Maça", "Pêra", "Banana", "Abacaxi", "Melão", "Morangos"],
+  "profissoes": ["Engenharia", "Informática", "Psicologia", "Construtor"],
+  "distritos": ["Faro", "Beja", "Setúbal", "Évora", "Portalegre", "Lisboa", "Santarém", "Leiria", "Coimbra", "Aveiro", "Viseu", "Guarda", "Porto", "Braga", "Bragança"]
+}
